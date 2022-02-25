@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copies of two letters vvritten by the late Earle of Strafford. The one to his Sacred Majesty. The other to a Lady of great note. With the Psalme that he chose to read at the time of his death.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61724</idno>
+            <idno type="STC">Wing S5797A</idno>
+            <idno type="STC">ESTC R222082</idno>
+            <idno type="EEBO-CITATION">99833312</idno>
+            <idno type="PROQUEST">99833312</idno>
+            <idno type="VID">37788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copies of two letters vvritten by the late Earle of Strafford. The one to his Sacred Majesty. The other to a Lady of great note. With the Psalme that he chose to read at the time of his death.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37788:1" rendition="simple:additions"/>
+            <pb facs="tcp:37788:1"/>
+            <p>The true Copies of two LETTERS: VVritten by the late Earle of <hi>STRAFFORD.</hi>
+            </p>
+            <p>The one to his Sacred Majeſty.</p>
+            <p>The other to a Lady of great note.</p>
+            <p>With the <hi>Pſalme</hi> that he choſe to read at the time of his death.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the Yeare 1641.</p>
+            <pb facs="tcp:37788:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37788:2"/>
+            <head>The Earle of STRAFFORDS Letter, to his moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, dated from the Tower, 4. <hi>May.</hi> 1641.</head>
+            <opener>
+               <salute>May it pleaſe your ſacred Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been my greateſt griefe in all theſe troubles, to be ta<g ref="char:EOLhyphen"/>ken as a perſon which ſhould endevour to repreſent and ſet things amiſſe between your Majeſty and your people; and to give Counſells tending to the diſquiet of the three Kingdomes.</p>
+            <p>Moſt true it is, that this mine owne private Condition con<g ref="char:EOLhyphen"/>ſidered, it had beene a great madneſſe, ſince through your gracious favour I was ſo provided, as not to expect in any kinde to mend my fortune, or pleaſe my minde more, than by reſting where your boun<g ref="char:EOLhyphen"/>teous hands had placed me.</p>
+            <p>Nay, it is moſt mightily miſtaken, for unto your Majeſty is well knowne, my poore, and humble adviſes concluded ſtill in this, That your Majeſty and your people could never bee happy, till there were a right underſtanding betwixt you and them: no other means to effect and ſettle this happineſſe, but by the Councell and aſſent of the Parliament; or to prevent the growing evills upon this ſtate, but by intirely putting your ſelfe in the laſt reſort, upon the loyalty and good affections of your Engliſh ſubjects.</p>
+            <p>Yet ſuch is my misfortune, this truth findeth little credit, the con<g ref="char:EOLhyphen"/>trary ſeemeth generally to be beleeved, and my ſelfe reputed as ſome thing of ſeperation between you, and your people; under a heavier cenſure than which, I am perſwaded no Gentleman can ſuffer.</p>
+            <p>Now I underſtand the mindes of men are more incenſed againſt me, notwithſtanding your Majeſty hath declared, that in your Princely opinion I am not guilty of Treaſon, nor are you ſatisfied in your Conſcience to paſſe the Bill.</p>
+            <p>This bringeth me into a very great ſtraight, there is before me the ruine of my Children, and family, hither<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o untouched, in all the branches of it with any foule Crimes. Here is before me the many ills which may b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fall your ſacred perſon, and the whole kingdome, ſhould your ſelfe and Parliament part leſſe ſatisfied one with the o<g ref="char:EOLhyphen"/>ther, than is neceſſary for the preſervation both of King and people. Here are before me the things moſt valued, moſt feared by mortall man, <hi>Life</hi> or <hi>Death.</hi>
+            </p>
+            <pb facs="tcp:37788:3"/>
+            <p> To ſay Sir, that there hath not beene a ſtrife in mee, were to make me leſſe man, then God knoweth, mine infirmities give me. And to call a deſtruction upon my ſelfe and yong Children, where the inten<g ref="char:EOLhyphen"/>tions of my heart, at leaſt have beene innocent of this great offence, may be believed, will finde no eaſie conſent from fleſh and bloud.</p>
+            <p>But with much ſadneſſe J am come to a reſolution, of that which I take to bee beſt becomming me, to looke upon that which is moſt principall in it ſelfe; which doubtleſſe is the proſperity of your ſa<g ref="char:EOLhyphen"/>cred perſon, and the Common-wealth, infinitely before any private mans intereſt.</p>
+            <p>And therefore in few words, as I put my ſelfe wholly upon the honour, and juſtice of my Peeres ſo clearely, as to beſeech your Ma<g ref="char:EOLhyphen"/>jeſty might pleaſe to have ſpared that Declaration of yours on Satur<g ref="char:EOLhyphen"/>day laſt, and intirely to have left me to their Lordſhips; ſo now to ſet your Majeſties conſcience at liberty, I doe moſt humbly beſeech your Majeſty, in prevention of miſtakes which may happen by your refuſall, to paſſe this Bill; And by this meanes remove (praiſed be God) I cannot ſay, this accurſed, (but I confeſſe) this unfortunate thing forth of the way, towards that bleſſed agreement, which God I truſt, ſhall ever eſtabliſh between you and your Subjects.</p>
+            <p>Sir, my conſent ſhall more acquit you herein to God, than all the world can doe beſides. To a willing man there is no injury done. And as by Gods grace, <hi>I</hi> forgive all the world with a calmneſſe and meekneſſe of infinite Contentment to my diſlodging ſoule; So ſir, to you can <hi>I</hi> give the life of this world, with all the cheerefulneſſe imaginable; in the juſt acknowledgement of your exceeding fa<g ref="char:EOLhyphen"/>vours. And onely begge that in your goodneſſe you would vouchſafe to caſt your gracious regard upon my poore Sonne, and his three Si<g ref="char:EOLhyphen"/>ſters, leſſe or more, and no otherwiſe, then as their (in preſent unfortunate father, may hereafter appeare more, or leſſe guilty of this death.</p>
+            <closer>
+               <salute>God long preſerve your Majesty.</salute>
+               <signed>Your Majeſties moſt faithfull, and humble Subject, and Servant STRAFFORD.</signed>
+               <dateline>Tower. <date>4. <hi>May</hi> 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:37788:3"/>
+            <head>
+               <hi>A Letter ſent unto a certaine great Lady, and lately diſcovered by ſtrange accident, May</hi> 1641.</head>
+            <opener>
+               <salute>Madam:</salute>
+            </opener>
+            <p>ALthough there be ſome diſcovery made knowne, yet what is intended is made ſecure; wherefore you muſt procure two thouſand pound ſpeedily; for no danger lets difficultie to com<g ref="char:EOLhyphen"/>paſſe it, if you keep ſecret: Remember your oath, for we ſhall ſlay the Beaſt with many heads, and deſtroy the Devils brood before they dreame or miſtruſt. Burne the letter you have received, your reward ſhall be in Heaven.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="Psalm">
+            <head>The Pſalme hee choſe to read a little before his execution, being the fifth Pſalme.</head>
+            <l>POnder my words, O Lord: conſider my meditation.</l>
+            <l>2 O hearken thou unto the voyce of my calling, my King, and my God: for unto thee will I make my prayer.</l>
+            <l>3 My voyce ſhalt thou heare betimes, O Lord: early in the morning will I direct my prayer unto thee, and will look up.</l>
+            <l>4 For thou art the God that haſt no pleaſure in wickedneſſe: neither ſhall any evill dwell with thee.</l>
+            <l>5 Such as be fooliſh ſhall not ſtand in thy ſight: for thou hateſt all them that work vanitie.</l>
+            <p>
+               <hi>And ſo forwards to the end of the Pſalme.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
